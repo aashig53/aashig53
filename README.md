@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me: Email: aashigupta2010102@gmail.com, Phone: +91 8178250926
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am learning Prompt engineering which isn't even in my interest field 😂😂
 
 <!---
 aashig53/aashig53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
